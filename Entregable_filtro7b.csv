@@ -1,0 +1,11 @@
+name,code,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Antigua and Barbuda,ATG,North America,Caribbean,442.0,1981.0,68000,70.5,612.0,584.0,Antigua and Barbuda,Constitutional Monarchy,Elisabeth II,63.0,AG
+Bahamas,BHS,North America,Caribbean,13878.0,1973.0,307000,71.1,3527.0,3347.0,The Bahamas,Constitutional Monarchy,Elisabeth II,148.0,BS
+Barbados,BRB,North America,Caribbean,430.0,1966.0,270000,73.0,2223.0,2186.0,Barbados,Constitutional Monarchy,Elisabeth II,174.0,BB
+Dominica,DMA,North America,Caribbean,751.0,1978.0,71000,73.4,256.0,243.0,Dominica,Republic,Vernon Shaw,586.0,DM
+Grenada,GRD,North America,Caribbean,344.0,1974.0,94000,64.5,318.0,,Grenada,Constitutional Monarchy,Elisabeth II,916.0,GD
+Jamaica,JAM,North America,Caribbean,10990.0,1962.0,2583000,75.2,6871.0,6722.0,Jamaica,Constitutional Monarchy,Elisabeth II,1530.0,JM
+Saint Kitts and Nevis,KNA,North America,Caribbean,261.0,1983.0,38000,70.7,299.0,,Saint Kitts and Nevis,Constitutional Monarchy,Elisabeth II,3064.0,KN
+Saint Lucia,LCA,North America,Caribbean,622.0,1979.0,154000,72.3,571.0,,Saint Lucia,Constitutional Monarchy,Elisabeth II,3065.0,LC
+Trinidad and Tobago,TTO,North America,Caribbean,5130.0,1962.0,1295000,68.0,6232.0,5867.0,Trinidad and Tobago,Republic,Arthur N. R. Robinson,3336.0,TT
+Saint Vincent and the Grenadines,VCT,North America,Caribbean,388.0,1979.0,114000,72.3,285.0,,Saint Vincent and the Grenadines,Constitutional Monarchy,Elisabeth II,3066.0,VC
